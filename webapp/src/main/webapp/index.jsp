@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Chinoo FireZone</h1>
+    <h1>Lets Start Pubg</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
