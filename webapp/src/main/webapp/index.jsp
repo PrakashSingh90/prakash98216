@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Noob Game Play Zone</h1>
+    <h1>Game Zone</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
