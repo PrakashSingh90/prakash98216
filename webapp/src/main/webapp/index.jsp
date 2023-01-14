@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Ankit Noob Gaming Zone </h1>
+   <h1> Thankyou, Your love one day you meet me </h1>
 
   
 </form>
